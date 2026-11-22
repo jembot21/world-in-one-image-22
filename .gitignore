@@ -1,0 +1,19 @@
+/entry.png
+/out/
+__pycache__/
+
+# Generated renders, previews and validation reports.
+/render/
+/renders/
+/validation/
+/reports/
+entry-*.png
+render-*.png
+*render*report*
+*validation*report*
+/render*.json
+/render*.txt
+/render*.md
+/validation*.json
+/validation*.txt
+/validation*.md

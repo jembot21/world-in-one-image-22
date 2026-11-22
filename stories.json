@@ -1,0 +1,148 @@
+{
+  "masthead": {
+    "date": "SUNDAY 22 NOVEMBER 2026",
+    "story_count": "50 stories · one day · every region"
+  },
+  "numbers": [
+    "M6.8 — quake in Peru",
+    "629–6 — India's record total",
+    "82,500 — marched in France",
+    "$93 — oil, a barrel",
+    "146 — safe after the Air Niugini landing"
+  ],
+  "leads": [
+    {
+      "number": 1,
+      "region": "MIDDLE EAST",
+      "headline": "TANKERS HIT NEAR HORMUZ",
+      "dek": "Bahrain says an Iranian attack set a civilian industrial site ablaze; two tankers struck leaving the Strait of Hormuz; Tehran shortens its Hormuz reopening plan to two days.",
+      "scene_key": "tanker"
+    },
+    {
+      "number": 2,
+      "region": "MIDDLE EAST",
+      "headline": "MISSILES FIRED AT RIYADH",
+      "dek": "Saudi-led coalition intercepts three Houthi ballistic missiles aimed at Riyadh and strikes Yemen's Hodeidah port.",
+      "scene_key": "missiles"
+    },
+    {
+      "number": 3,
+      "region": "CLIMATE",
+      "headline": "COP31 TALKS RUN INTO OVERTIME",
+      "dek": "Antalya climate summit deadlocked over fossil fuels and finance; a draft drops any mention of coal, oil and gas; EU: a good deal or no deal.",
+      "scene_key": "summit"
+    },
+    {
+      "number": 4,
+      "region": "EUROPE",
+      "headline": "RUSSIAN SHIP ABLAZE IN THE BALTIC",
+      "dek": "Cargo ship Sparta II catches fire in the Gulf of Finland after a suspected drone strike; crew evacuated.",
+      "scene_key": "shipfire"
+    },
+    {
+      "number": 5,
+      "region": "EUROPE",
+      "headline": "STRIKE ON KRYVYI RIH; NATO VOW",
+      "dek": "Russian strike kills two in Zelenskyy's home city, dozens hurt; Poland reports airspace incursions; NATO vows to defend \"every inch\" of Poland.",
+      "scene_key": "strike"
+    },
+    {
+      "number": 6,
+      "region": "AMERICAS",
+      "headline": "M6.8 QUAKE SHAKES PERU'S ANDES",
+      "dek": "Strong earthquake in the Junín highlands injures 15; no deaths reported.",
+      "scene_key": "quake"
+    },
+    {
+      "number": 7,
+      "region": "ASIA",
+      "headline": "POISON LIQUOR KILLS 11 IN MANIPUR",
+      "dek": "Toxic alcohol kills at least 11 in India's northeast; more than 180 in hospital.",
+      "scene_key": "bottle"
+    },
+    {
+      "number": 8,
+      "region": "ASIA",
+      "headline": "FACTORY FIRE: DOZENS MISSING",
+      "dek": "Rescuers search for dozens missing after a factory blaze in Indonesia; at least three dead.",
+      "scene_key": "factory"
+    },
+    {
+      "number": 9,
+      "region": "EUROPE",
+      "headline": "FRANCE MARCHES AGAIN",
+      "dek": "Fourth straight weekend of cost-of-living protests; masked demonstrators clash with police in Strasbourg.",
+      "scene_key": "march"
+    },
+    {
+      "number": 10,
+      "region": "AMERICAS",
+      "headline": "MEXICO CAPTURES 'EL CHAPO ISIDRO'",
+      "dek": "Army seizes the FBI most-wanted cartel boss; his arrest sparks deadly clashes in Sinaloa.",
+      "scene_key": "capture"
+    },
+    {
+      "number": 11,
+      "region": "SCIENCE",
+      "headline": "A SECOND SHIP ORBITS MERCURY",
+      "dek": "ESA's BepiColombo loops into orbit around the sun's nearest planet — only the second spacecraft ever to do it.",
+      "scene_key": "mercury"
+    },
+    {
+      "number": 12,
+      "region": "SPORT",
+      "headline": "INDIA'S RECORD 629 IN WELLINGTON",
+      "dek": "Pant's century powers India's highest-ever Test total in New Zealand, 629–6 with a lead of 261.",
+      "scene_key": "cricket"
+    }
+  ],
+  "briefs": {
+    "AMERICAS": [
+      "FBI probes suspected crime-database breach",
+      "Vance stops short of backing Trump's Iran claim",
+      "Hegseth memo curbs US–Canada ties; Ottawa sees no shift",
+      "Senate's new Democrats face leadership test",
+      "Storms threaten Thanksgiving travel",
+      "Florida river hits 73-year record flood",
+      "Wall Street's worst week since Apr 2025; Dec Fed hike bet",
+      "NIH chief seeks fresh Covid-origins probe",
+      "Falcon 9 set to launch NROL-136 spy satellites today",
+      "Bedard to have shoulder surgery"
+    ],
+    "EUROPE": [
+      "Russia revives pre-2022 NATO demands",
+      "Spain extends bank levy to 2027",
+      "France marches: 82,500, largely peaceful",
+      "French court jails 3 officers over Zecler assault",
+      "Blair: rejoin EU only if UK leads on tech",
+      "Norway court voids disputed oil licences",
+      "EU–Indonesia sign trade deal",
+      "UN \"killer robot\" talks end without treaty",
+      "Premier League: Bournemouth 2–0 Forest, Coventry 3–2 Palace, Newcastle 2–2 Arsenal"
+    ],
+    "MIDDLE EAST & AFRICA": [
+      "Gaza floods deepen; AU/CA/IT/UK urge aid access",
+      "Israeli strike on Gaza vehicle kills 3",
+      "US denies Iran F-16 claim",
+      "Ghana's \"Heritage Series\" banknotes",
+      "Al-Shabaab claims ambush toll in Somalia",
+      "Kenya discharges last Ebola patient; DRC toll 5,300+",
+      "Sahel states restart ECOWAS dialogue",
+      "Nigeria builds its own naval ships",
+      "DR Congo enacts reform law"
+    ],
+    "ASIA-PACIFIC · SCIENCE · SPORT": [
+      "Voyager 1 one light-day from Earth",
+      "SoftBank's shelved $1tn SK Hynix idea",
+      "Singapore open to US + Chinese tech",
+      "Australia faults US AUKUS warnings",
+      "Modi opens Nitish Setu bridge",
+      "India passes 10m HPV doses",
+      "India–Japan deepen defence ties",
+      "146 safe after Air Niugini emergency landing",
+      "Alcaraz to face Zverev for ATP Finals title",
+      "Ireland stun Springboks 20–17; France reach final; Australia edge Wales"
+    ]
+  },
+  "footer": "All stories first reported Sunday 22 November 2026"
+}
